@@ -1,0 +1,16 @@
+{
+    "name": "B",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e9199e5e1e149cf428d13744f36270a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
